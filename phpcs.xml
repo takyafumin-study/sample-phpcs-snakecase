@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="my rule">
+    <file>src</file>
+
+    <rule ref="WordPress-Core">
+    </rule>
+</ruleset>
+
